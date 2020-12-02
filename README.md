@@ -22,3 +22,52 @@ With 3 disks, the puzzle can be solved in 7 moves. The minimal number of moves r
 When we run a following code of TOH problem, we get following result:
 
 ![output](./images/Output.PNG)
+
+## Steps
+
+### Step-1
+
+Move disk 1 from A to C
+
+![step_1](./images/Step_1.gif)
+
+### Step-2
+
+Move disk 2 from A to B
+
+![step_2](./images/Step_2.gif)
+
+
+### Step-3
+
+Move disk 1 from C to B
+
+![step_3](./images/Step_3.gif)
+
+
+### Step-4
+
+Move disk 3 from A to C
+
+![step_4](./images/Step_4.gif)
+
+
+### Step-5
+
+Move disk 1 from B to A
+
+![step_5](./images/Step_5.gif)
+
+
+### Step-6
+
+Move disk 2 from B to C
+
+![step_6](./images/Step_6.gif)
+
+
+### Step-7
+
+Move disk 1 from A to C
+
+![step_7](./images/Step_7.gif)
